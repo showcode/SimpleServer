@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{B14147B1-AB25-4DAB-B524-F19047C44043}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    
+    
+    <Projects>
+      <Projects Name="server.exe">server\server.bdsproj</Projects>
+      <Projects Name="service.exe">service\service.bdsproj</Projects>
+      <Projects Name="manager.exe">manager\manager.bdsproj</Projects>
+      <Projects Name="applet.cpl">cplapplet\applet.bdsproj</Projects>
+      <Projects Name="client.exe">client\client.bdsproj</Projects>
+      <Projects Name="Targets">server.exe service.exe manager.exe applet.cpl client.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
